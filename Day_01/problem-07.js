@@ -1,4 +1,7 @@
 // Check whether a character is uppercase, lowercase, a number, or a special character.
+// input = #
+// output = # is a special character
+
 let char = "#";
 
 if (char >= 'A' && char <= 'Z') {
