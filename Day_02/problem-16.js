@@ -1,5 +1,5 @@
 //Check whether the given number is a Perfect number using while loop.
-//input: A number (e.g., 28)
+//input: A number (e.g., 28) 
 //output: The number is a Perfect number.
 
 let num = 28;
