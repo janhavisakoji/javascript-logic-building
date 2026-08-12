@@ -17,4 +17,4 @@ if (sum === num) {
     console.log("The number", num, "is a Perfect number.");
 } else {
     console.log("The number", num, "is not a Perfect number.");
-}
+} 
